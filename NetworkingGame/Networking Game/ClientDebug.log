@@ -1,0 +1,23 @@
+client received: CLIENTNO1
+CLIENT - SET CLIENTNO TO: 1
+client received: SEED1444089308373
+CLIENT - SET SEED TO: 1444089308373
+client received: RCVNRDY
+client received: RCVNRDY
+client received: RCVNRDY
+client received: RCVNRDY
+client received: RCVRDY
+client received: TOTALCLIENTS2
+CLIENT - SET TOTALCLIENTS TO: 2
+client received: DIFF0
+CLIENT - SET DIFFICULTY TO: 0
+client received: PLAY
+client received: TOTALCLIENTS2
+client received: DIFF0
+client received: PLAY
+client received: TOTALCLIENTS2
+client received: DIFF0
+client received: PLAY
+client received: DIFF0
+client received: PLAY
+client received: PLAY

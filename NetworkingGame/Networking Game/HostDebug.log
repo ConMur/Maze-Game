@@ -1,0 +1,29 @@
+The IP of the server is: 192.168.2.16 on port: 9898
+SERVER - NEW CONNECTION DETECTED WITH IP: /192.168.2.16 ON PORT: 59204, NOTIFYING CLIENT
+server received: CONNECTED
+SERVER - NEW CONNECTON, TOTALCLIENTS NOW: 2 NEXTCLIENTNO NOW: 2
+server received: RCVNUM1
+server received: RCVSEED1
+server received: NOTREADY1
+SERVER - SET CLIENT NUMBER: 1 TO NOT READY
+server received: NOTREADY1
+SERVER - SET CLIENT NUMBER: 1 TO NOT READY
+server received: NOTREADY1
+SERVER - SET CLIENT NUMBER: 1 TO NOT READY
+server received: NOTREADY1
+SERVER - SET CLIENT NUMBER: 1 TO NOT READY
+server received: READY1
+SERVER - SET CLIENT NUMBER: 1 TO READY
+server received: READY1
+server received: RCVTOT1
+server received: RCVDIFF1
+server received: RCVPLAY1
+server received: RCVTOT1
+server received: RCVDIFF1
+server received: RCVPLAY1
+server received: RCVTOT1
+server received: RCVDIFF1
+server received: RCVPLAY1
+server received: RCVDIFF1
+server received: RCVPLAY1
+server received: RCVPLAY1
