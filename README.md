@@ -10,4 +10,6 @@ Players can select to be the host of the game or join an existing game
 ![alt tag](https://github.com/ConMur/Maze-Game/blob/master/Screenshots/start.png)
 
 ## Players can see each other
-![alt tag](https://github.com/ConMur/Maze-Game/blob/master/Screenshots/meeting.png
+![alt tag](https://github.com/ConMur/Maze-Game/blob/master/Screenshots/meeting.png)
+
+This was a way to learn a bit more about how UDP works and how Java uses networking.
